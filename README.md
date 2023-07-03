@@ -1,4 +1,4 @@
-# Neural Networks course project
+# Neural Networks projects
 This repository consist of the two parts that composed a project of Neural Networks and Deep Learning.
 
 In particular:
